@@ -1,0 +1,9 @@
+ro.product.model=LGM-V300S
+ro.product.brand=lge
+ro.product.name=joan_skt_kr
+ro.product.device=joan
+ro.product.manufacturer=LGE
+ro.build.product=joan
+
+# Single SIM Standby, this will kill SIM 2.
+persist.radio.multisim.config=ss
